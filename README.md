@@ -37,6 +37,8 @@ Para implementar la hoja de estilos, se debe agregar la siguiente línea de cód
 
 - .d-flex
   : `display: flex !important;`
+- .d-none
+  : `display: none !important;`
 - .d-block :
   `display: block !important;`
 - .m-auto
